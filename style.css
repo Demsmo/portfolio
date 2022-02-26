@@ -4,8 +4,8 @@ COMMON
 
 ********************/
 
-body {
-    font-family: "monospace",san-serif;
+#body {
+    font-family: "monospace", san-serif;
 }
 
 .font-primary {
